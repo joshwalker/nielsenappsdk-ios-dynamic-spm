@@ -2,7 +2,7 @@
 Nielsen app sdk repository to distribute dynamic XCFramework release packages via SPM dependency manager, supporting iOS, tvOS and MacOS Catalyst targets.
 
 ## Installation
-Nielsen AppSDK dynamic XCFramework via SPM dependency manager can be installed by following the steps mentioned [here](https://engineeringportal.nielsen.com/docs/Digital_Measurement_iOS_Artifactory_Guide)
+Nielsen AppSDK dynamic XCFramework via SPM dependency manager can be installed by following the steps mentioned [here](https://engineeringportal.nielsen.com/docs/Digital_Measurement_iOS_Swift_Package_Manager_Guide)
 
 ## Implementation
 Nielsen AppSDK supports various digital measurement products. You can access the implementation guides for these products as below
