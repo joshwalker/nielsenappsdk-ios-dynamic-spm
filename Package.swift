@@ -29,10 +29,10 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "NielsenAppApi", path: "products/Global/NielsenAppApi.xcframework"),
-        .binaryTarget(name: "NielsenNoAdAppApi", path: "products/GlobalNoAd/NielsenAppApi.xcframework"),
-        .binaryTarget(name: "NielsenNoIdAppApi", path: "products/GlobalNoId/NielsenAppApi.xcframework"),
-        .binaryTarget(name: "NielsenAGFAppApi", path: "products/AGF/NielsenAppApi.xcframework"),
-        .binaryTarget(name: "NielsenAGFNoAdAppApi", path: "products/AGFNoAd/NielsenAppApi.xcframework"),
-        .binaryTarget(name: "NielsenAGFNoIdAppApi", path: "products/AGFNoId/NielsenAppApi.xcframework")
+        .binaryTarget(name: "NielsenNoAdAppApi", path: "products/GlobalNoAd/NielsenNoAdAppApi.xcframework"),
+        .binaryTarget(name: "NielsenNoIdAppApi", path: "products/GlobalNoId/NielsenNoIdAppApi.xcframework"),
+        .binaryTarget(name: "NielsenAGFAppApi", path: "products/AGF/NielsenAGFAppApi.xcframework"),
+        .binaryTarget(name: "NielsenAGFNoAdAppApi", path: "products/AGFNoAd/NielsenAGFNoAdAppApi.xcframework"),
+        .binaryTarget(name: "NielsenAGFNoIdAppApi", path: "products/AGFNoId/NielsenAGFNoIdAppApi.xcframework")
     ]
 )
